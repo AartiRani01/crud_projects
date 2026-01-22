@@ -1,3 +1,4 @@
-**/migrations/
+crud/migrations/
+accounts/migrations/
 **/__pycache__/
-.env/
+
